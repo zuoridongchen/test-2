@@ -20,6 +20,7 @@
     NSLog(@"sdf");
     NSLog(@"sdf");
     NSLog(@"test2");
+    NSLog(@"小胖是傻瓜");
 }
 
 - (void)didReceiveMemoryWarning {
